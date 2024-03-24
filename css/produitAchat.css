@@ -1,0 +1,39 @@
+.bouteille, .button1{
+	text-align: justify;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	max-width: 100%;
+	height: auto;
+}
+
+h2.desc{
+	text-align: center;
+}
+
+.desc{
+	text-align: justify;
+}
+
+.quantité{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-bottom: 1%;
+}
+
+h2{
+	text-decoration: underline;
+}
+
+label{
+    margin-left: 46.5%;
+    
+    display:block;
+    font-weight: bolder;
+}
+
+.button1:hover{
+	cursor: pointer;
+
+}
